@@ -1,0 +1,14 @@
+﻿FULL_Name,Lead_id,Email,Phone,Source,Stage,Created_at,Last contacted,Notes,STUDENTS
+Sam Taylor,1,sam.taylor@example.com,555-0104,website,new lead,31/5/2026 11:06pm,25/5/2026,"interested in the computer science program
+",
+Morgan Lee,2,m.lee@example.com,555-0105,instagram,contacted,31/5/2026 11:06pm,26/5/2026,requested more information on tution,
+Riley Quinn,3,r.quinn@example.com,555-0107,referral,application sent,31/5/2026 11:06pm,27/5/2026,needs help with the application portal,
+Maya Patel,4,maya.patel@example.com,555-0115,webinar,interview scheduled,31/5/2026 11:24pm,28/5/2026,asked to schedule a campus tour next week,
+Chloe Kim,5,chloe.kim@example.com,555-0117,linkedin,enrolled,31/5/2026 11:26pm,29/5/2026,following up on pending recommendation letters,
+Isabella Rossi,6,i.rossi@example.com,555-0118,website,new lead,31/5/2026 11:26pm,30/5/2026,initial inquiry; sent digital brochure ,
+1,7,,,,,31/5/2026 11:49pm,,,1
+2,8,,,,,31/5/2026 11:49pm,,,2
+3,9,,,,,31/5/2026 11:49pm,,,3
+4,10,,,,,31/5/2026 11:49pm,,,4
+5,11,,,,,31/5/2026 11:49pm,,,5
+6,12,,,,,31/5/2026 11:49pm,,,6

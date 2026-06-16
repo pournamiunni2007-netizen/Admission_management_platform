@@ -1,0 +1,7 @@
+﻿Payment_id,Attachments,student_id,student name,amount,due date,paid date,payment method,payment status,invoice URL
+1,,1,Sam Taylor,$500.00,15/6/2026,10/6/2026,credit card,paid,link1
+2,,2,Morgan Lee,$500.00,15/6/2026,11/6/2026,bank transfer,pending,link2
+3,,3,Riley Quinn,$500.00,15/6/2026,12/6/2026,paypal,paid,link3
+4,,4,Maya Patel,$500.00,15/6/2026,13/6/2026,credit card,paid,link4
+5,,5,Chloe Kim,$500.00,15/6/2026,14/6/2026,bank transfer,pending,link5
+6,,6,Isabella Rossi,$500.00,15/6/2026,15/6/2026,credit card,paid,link6

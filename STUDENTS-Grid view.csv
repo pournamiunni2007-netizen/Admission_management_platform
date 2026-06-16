@@ -1,0 +1,8 @@
+﻿Student_id,Attachments,Lead_id,Full_name,Email,Phone,Enrollment_date,Status,Emergency_contact,PAYMENTS,PAYMENTS 2,ATTENDANCE,ATTENDANCE 2,ATTENDANCE 3,ATTENDANCE 4,ATTENDANCE 5
+1,,1,Sam Taylor,sam.taylor@example.com,555-0104,1/6/2026,enrolled,Alex Taylor(555-0201),1,,1,,,,
+2,,2,Morgan Lee,m.lee@example.com,555-0105,5/6/2026,pending,Jordan Lee(555-0202),2,,2,,,,
+3,,3,Riley Quinn,r.quinn@example.com,555-0107,10/6/2026,applied,Casey Quinn(555-0203),3,,3,,,,
+4,,4,Maya Patel,maya.patel@example.com,555-0115,12/6/2026,new lead,Min Kim(555-0205),4,,4,,,,
+5,,5,Chloe Kim,chloe.kim@example.com,555-0117,15/6/2026,interview scheduled,Luca Rossi(555-0206),5,,5,,,,
+6,,6,Isabella Rossi,i.rossi@example.com,555-0118,18/6/2026,contacted,,6,,6,,,,
+7,,,,,,,,,,1,,,,,

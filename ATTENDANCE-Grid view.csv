@@ -1,0 +1,10 @@
+﻿Attendance_id,Attachments,student_id,course_id,student name,course name,session date,status,notes
+1,,1,1,,,1/6/2026,present,"on time
+
+"
+2,,2,2,,,2/6/2026,present,on time
+3,,3,3,,,3/6/2026,present,on time
+4,,4,1,,,4/6/2026,absent,"excused
+"
+5,,5,2,,,5/6/2026,present,on time
+6,,6,3,,,6/6/2026,present,on time
